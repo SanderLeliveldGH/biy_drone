@@ -5,5 +5,5 @@ Schoolproject 2018/2019
 
 * 3D print van de prop guard moet nog aangepast worden met de juiste maten van maten-bestandje.
 
-* Prop guard is nog niet getest & vereist langere m3-bouten +1 centimeteer!
+* Prop guard is nog niet getest & vereist langere m3-bouten +1 centimeter!
 
